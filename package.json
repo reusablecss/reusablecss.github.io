@@ -1,0 +1,16 @@
+{
+  "name": "reusable",
+  "version": "0.0.1",
+  "description": "Highly reusable CSS classes.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "atomic css",
+    "OOCSS",
+    "reusable css"
+  ],
+  "author": "Brian Zelip",
+  "license": "MIT"
+}
