@@ -1,6 +1,6 @@
 {
   "name": "reusable",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Library of highly reusable CSS classes for design, performance, and maintainability.",
   "main": "index.html",
   "scripts": {
