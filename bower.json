@@ -1,0 +1,25 @@
+{
+  "name": "reusable",
+  "description": "Highly reusable CSS classes.",
+  "main": "index.html",
+  "authors": [
+    "Brian Zelip"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "atomic",
+    "css",
+    "OOCSS",
+    "reusable",
+    "css"
+  ],
+  "moduleType": [],
+  "homepage": "https://reusablecss.github.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
