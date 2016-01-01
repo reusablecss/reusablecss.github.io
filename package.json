@@ -1,13 +1,14 @@
 {
   "name": "reusable",
   "version": "0.0.1",
-  "description": "Highly reusable CSS classes.",
+  "description": "Library of highly reusable CSS classes for design, performance, and maintainability.",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "atomic css",
+    "functional css",
     "OOCSS",
     "reusable css"
   ],

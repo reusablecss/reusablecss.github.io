@@ -1,17 +1,16 @@
 {
   "name": "reusable",
-  "description": "Highly reusable CSS classes.",
+  "description": "Library of highly reusable CSS classes for design, performance, and maintainability.",
   "main": "index.html",
   "authors": [
     "Brian Zelip"
   ],
   "license": "MIT",
   "keywords": [
-    "atomic",
-    "css",
+    "atomic css",
+    "functional css",
     "OOCSS",
-    "reusable",
-    "css"
+    "reusable css"
   ],
   "moduleType": [],
   "homepage": "https://reusablecss.github.io",
