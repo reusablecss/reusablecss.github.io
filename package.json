@@ -18,5 +18,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/reusablecss/reusablecss.github.io.git"
+  },
+  "devDependencies": {
+    "css-uncut": "0.0.0"
   }
 }
