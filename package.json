@@ -21,5 +21,8 @@
   },
   "devDependencies": {
     "css-uncut": "0.0.0"
+  },
+  "dependencies": {
+    "css-properties": "^2.0.2"
   }
 }
